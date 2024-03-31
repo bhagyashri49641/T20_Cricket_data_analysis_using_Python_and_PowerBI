@@ -2,7 +2,8 @@
 
 # T20CricketData-Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : ![croped](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/8a8fb1ec-1781-4590-b11c-388cb63ee087)
+
 
 ## Problem Statement
 
