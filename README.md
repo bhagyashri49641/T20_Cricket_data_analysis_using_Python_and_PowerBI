@@ -29,16 +29,26 @@ Follow the link below to view the interactive power BI dashboard
 ![t20_1](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/48227e70-0efd-443b-a472-60fc5cfe3cc6)
 
 
+
+
 ![t20_2](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/1119558c-904e-479b-b57b-5d60547b0283)
+
+
 
 
 ![t20_3](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/2b7e45f1-40b2-4256-889d-ba904a7e98a6)
 
 
+
+
 ![t20_4](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/9712ffd4-cadf-49b0-895d-4a4378ba2fab)
 
 
+
+
 ![t20_5](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/59b46458-2a31-4a97-9562-2ef02f76b905)
+
+
 
 
 ![t20_6](https://github.com/bhagyashri49641/T20_Cricket_data_analysis_using_Python_and_PowerBI/assets/53085622/ce3172fd-f1d2-4e41-b575-a7af83cc0a6a)
