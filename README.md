@@ -27,8 +27,8 @@ SPECIALIST FAST BOWLERS: -> three players 11 filters - bowling average, bowling 
 - Step 3: Load the data into the power query editor for basic data transformations and to create required DAX measures
 - Step 4: Create dashboard visuals with Power BI
 
-Follow the link below to view the interactive power BI dashboard 
-#### Dashboard Link: 
+Follow the link below to view the interactive Power BI dashboard 
+#### Dashboard Link: https://www.novypro.com/project/cricketteamselection-power-bi
 
 
 
